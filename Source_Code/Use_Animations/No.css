@@ -1,0 +1,57 @@
+/* Animations For My Themes */
+
+@keyframes Spin {
+    0% {
+    }
+    100% {
+    }
+}
+
+@keyframes Talking {
+    0% {
+    }
+    100% {
+    }
+}
+
+@keyframes Load4 {
+    0% {
+    }
+    100% {
+    }
+}
+
+@keyframes opacity {
+  0% {
+  }
+
+  50% {
+  }
+
+  100% {
+  }
+}
+
+@keyframes color_change {
+  from {
+  }
+
+  to {
+  }
+}
+
+@keyframes shakeUnread {
+  0% {
+  }
+
+  100% {
+  }
+}
+
+@keyframes rainbow {
+  from {
+  }
+
+  to {
+  }
+}
