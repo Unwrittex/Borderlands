@@ -257,7 +257,7 @@ form.deprecated.auth-form footer {
 
 .inline {
   background-color: #23232323 !important;
-  border-radius: 5px !important;
+  border-radius: 50px !important; /**Border Alterado Defaul = 5px*//
   font-size: 12px;
   color: var(--Main-Colour) !important;
   line-height: 22px;
@@ -399,7 +399,7 @@ span.ping {
 
 .guild-header.guild-header-open ul {
   background-color: #121212 !important;
-  border-radius: 5px;
+  border-radius: 50px; /**Border-radiu Alterado Default = 5px*/
   margin-left: 1.2vh;
   width: 15vw;
 }
@@ -497,7 +497,8 @@ span.ping {
 
 .private-channels .scroller {
   background: none !important;
-  border-radius: 5px !important;
+
+  border-radius: 50px !important;
   margin-left: 2vh;
 }
 
@@ -525,7 +526,7 @@ span.ping {
 
 #friends .friends-table .friends-table-body {
   background-color: var(--S-Colour) !important;
-  border-radius: 5px !important;
+  border-radius: 50px !important; /*Border-raidius alterado Default = 5px*/
   border: 1px solid var(--Main-Colour);
   margin-left: 1.6vw;
   margin-bottom: 2.5vh;
@@ -535,7 +536,7 @@ span.ping {
 
 #friends .friends-table .friends-table-header {
   background-color: var(--S-Colour) !important;
-  border-radius: 5px !important;
+  border-radius: 50px !important; /*Border-raidius alterado Default = 5px*/
   border: 1px solid var(--Main-Colour);
   border-bottom: 1px solid var(--Main-Colour)!important;
   margin-left: 1.6vw;
@@ -557,11 +558,11 @@ span.ping {
   color: var(--Main-Colour) !important;
 }
 
-/* Tags */
+/* Tags 
 span.bot-tag {
   background-color: rgba(0,216,86, 0.8) !important;
   animation: rainbow 20s infinite linear;
-}
+}*/
 
 .kawaii-tag {
   background: #7289da;
@@ -575,7 +576,7 @@ span.bot-tag {
   vertical-align: bottom;
   line-height: 16px;
   flex-shrink: 0;
-  animation: rainbow 20s infinite linear;
+  /*animation: rainbow 20s infinite linear;*/
 }
 
 .compact .kawaii-tag {
