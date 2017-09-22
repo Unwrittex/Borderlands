@@ -7,8 +7,8 @@ SmarterEmbeds  made by Beard_Design -> https://github.com/BeardDesign1/SmarterEm
 Server_Grid_2_Columns made by Jiiks -> https://gist.github.com/Jiiks/e1026d29aac91e7a7ad2d90dee87c90c 
 
 */
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Notifications/Made_By_NFLD99.css);
-:root{
+@import url(https://rawgit.com/Unwrittex/Borderlands/master/Notifications/Made_By_NFLD99.css);
+/*:root{
 	--Update-Text: "Update_#38 ";
 }
 #bd-settingspane-container h2.ui-form-title::after {
@@ -21,22 +21,22 @@ Server_Grid_2_Columns made by Jiiks -> https://gist.github.com/Jiiks/e1026d29aac
 	content:var(--Update-Text);
 }
 [layer-id="user-settings"] .user-settings-account ~ :last-child:after {
-    margin-bottom: -3px;
-    padding-top: 0;
-    display: block;
+	margin-bottom: -3px;
+	padding-top: 0;
+	display: block;
 	background:black;
 	content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 230" style="width:100%;height:100px;"><g style="fill: lime; font-size: .8em; font-family:verdana"><text y="20" style="font-size: 2em; fill: lime;">Links</text><text y="45" style="font-size: 1.1em;" x="37">Github Link: https://git.io/v7ovg</text><text y="65" style="font-size: 1.1em;" x="37">Support Server Link: https://discord.gg/MhtfhA4</text><text y="85" style="font-size: 1.1em;" x="37">Wiki: https://tinyurl.com/NFLD99sWiki</text><text y="115" style="font-size: 2em; fill: lime;">Change Log</text><text y="140" style="font-size: 1.1em;" x="37">1. You can now revoke bans</text><text y="160" style="font-size: 1.1em;" x="37">2. Added wiki link</text><text y="180" style="font-size: 1.1em;" x="37">3. Fixed emoji bug</text></g></svg>');
 }
-
+*/
 .container-3lnMWU:after {
-    content: var(--Update-Text);
-    color: Var(--M-Colour) !important;
-    font-size: 13px;
-    font-weight: 700;
-    position: absolute;
-    left: 126px;
+	content: var(--Update-Text);
+	color: Var(--M-Colour) !important;
+	font-size: 13px;
+	font-weight: 700;
+	position: absolute;
+	left: 126px;
 	bottom: -2.4px;
-    opacity: .5;
+	opacity: .5;
 }
 
 .guilds-wrapper .guilds > .guild:first-child{
@@ -48,16 +48,16 @@ Server_Grid_2_Columns made by Jiiks -> https://gist.github.com/Jiiks/e1026d29aac
 }
 
 .native-toolbar .titlebar {
-    position: relative;
-    background: rgba(216,0,86,var(--Title-Rainbow));
-    background-size: 54px 10px;
+	position: relative;
+	background: rgba(216,0,86,var(--Title-Rainbow));
+	background-size: 54px 10px;
 	animation: rainbow 6s infinite linear;
 }
 
 .native-toolbar .titlebar:after{
 	content:var(--Update-Text);
 	position: absolute;
-    left: 5px;
+	left: 5px;
 	bottom: 3px;
 	color: Var(--M-Colour) !important;
 }
@@ -106,7 +106,7 @@ Server_Grid_2_Columns made by Jiiks -> https://gist.github.com/Jiiks/e1026d29aac
 }
 
 .auth-background {
-    background: url(https://i.imgur.com/DOFpZY5.jpg) 50% 50%/cover !important;
+	background: url(https://i.imgur.com/DOFpZY5.jpg) 50% 50%/cover !important;
 }
 
 form.deprecated.auth-form {
@@ -118,9 +118,9 @@ form.deprecated.auth-form {
 }
 
 form.deprecated.auth-form .btn-primary{
-    padding: 10px 20px;
-    padding-top: 0;
-    padding-bottom: 0;
+	padding: 10px 20px;
+	padding-top: 0;
+	padding-bottom: 0;
 }
 
 .auth-inner .auth-brand {
@@ -153,7 +153,7 @@ form.deprecated.auth-form footer {
 }
 
 .form.deprecated .btn-primary {
-    color: var(--Background-Colour);
+	color: var(--Background-Colour);
 }
 
 .theme-dark .themed-popout .header {
@@ -2097,7 +2097,7 @@ div.flex-spacer.flex-vertical form {
 }
 
 .channel-members-loading .background {
-    background: var(--Main-Colour);
+	background: var(--Main-Colour);
 	opacity:.1;
 	animation: rainbow 2.8s infinite linear;
 }
@@ -2127,7 +2127,7 @@ div.flex-spacer.flex-vertical form {
 }
 
 .markup .edited {
-    text-shadow: none;
+	text-shadow: none;
 }
 
 .mentioned .mention:hover {
@@ -2152,10 +2152,10 @@ div.flex-spacer.flex-vertical form {
 
 /*
 .mention {
-    color: #00e5ff;
-    background: #d6ff00;
-    font-weight: 500;
-    transition: background-color .05s,color .05s;
+	color: #00e5ff;
+	background: #d6ff00;
+	font-weight: 500;
+	transition: background-color .05s,color .05s;
 }
 */
 	
@@ -2181,20 +2181,20 @@ div.flex-spacer.flex-vertical form {
 }
 
 .userPopout-4pfA0d .avatar-1BXaQj {
-    background-clip: padding-box;
-    position: relative;
-    background: 50% 50%/cover;
-    border-radius: 10px!important;
-    -ms-flex-negative: 0;
-    flex-shrink: 0;
+	background-clip: padding-box;
+	position: relative;
+	background: 50% 50%/cover;
+	border-radius: 10px!important;
+	-ms-flex-negative: 0;
+	flex-shrink: 0;
 	width: 200px!important;
-    height: 200px!important;
+	height: 200px!important;
 	border: none;
 }
 
 .userPopout-4pfA0d .status-3jUEha{
 	width: 150%!important;
-    height: 5px!important;
+	height: 5px!important;
 	bottom: -10%;
 	left:-20%;
 	border-radius: 0px!important;
@@ -2221,7 +2221,7 @@ div.flex-spacer.flex-vertical form {
 }
 
 #user-profile-modal .avatarWrapper-2Gfmp1 {
-	    background-color: var(--Background-Colour);
+		background-color: var(--Background-Colour);
 }
 
 #user-profile-modal .header .header-info .header-info-inner .discord-tag, #user-profile-modal .header .header-info .header-info-inner .discord-tag .headerDiscriminator-3fLlCR , .headerTagNormal-KyD3_J, .headerUsernameNoNickname-1iGxNP{
@@ -2353,7 +2353,7 @@ div.form-inner, .form-actions {
 }
 
 .theme-dark .link-13ZMYi:hover .foreground-3yJWZE {
-    fill: var(--Main-Colour);
+	fill: var(--Main-Colour);
 }
 
 .cardPrimary-ZVL9Jr{
@@ -2425,9 +2425,9 @@ div.form-inner, .form-actions {
 }
 
 .theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit {
-    border-top: 2px solid rgba(28,36,43,.6);
-    box-sizing: border-box;
-    background-color: var(--Background-Colour);
+	border-top: 2px solid rgba(28,36,43,.6);
+	box-sizing: border-box;
+	background-color: var(--Background-Colour);
 	border: 2px solid var(--Main-Colour);
 }
 
@@ -2542,11 +2542,11 @@ div.form-inner, .form-actions {
 }
 
 .container-37-TX2:hover {
-    color: var(--Main-Colour);
+	color: var(--Main-Colour);
 }
 
 .container-37-TX2 {
-    color: var(--M-Colour);
+	color: var(--M-Colour);
 }
 
 .wrapperHoveredVoice-3tbfNN {
@@ -2558,18 +2558,18 @@ div.form-inner, .form-actions {
 }
 
 .chat>.title-wrap>.topic .aka {
-    background: var(--Background-Colour);
-    font-size: 10px;
-    font-weight: 500;
-    color: var(--Main-Colour);
-    margin-right: 8px;
-    padding: 1px 3px;
-    border-radius: 3px;
-    text-transform: uppercase;
-    vertical-align: bottom;
-    line-height: 22px;
-    -ms-flex-negative: 0;
-    flex-shrink: 0;
+	background: var(--Background-Colour);
+	font-size: 10px;
+	font-weight: 500;
+	color: var(--Main-Colour);
+	margin-right: 8px;
+	padding: 1px 3px;
+	border-radius: 3px;
+	text-transform: uppercase;
+	vertical-align: bottom;
+	line-height: 22px;
+	-ms-flex-negative: 0;
+	flex-shrink: 0;
 }
 
 /* scrollbars */
@@ -2590,17 +2590,17 @@ div.form-inner, .form-actions {
 
 .description-15n-1L.margin-bottom-20{ display: none; }
 .title-2mmhgH.margin-bottom-8:after {
-    content: "Do You Wish To See Members Of The Itty Bitty Titty Committee?";
-    display: block;
-    font-size: 16px;
-    line-height: 16px;
-    margin-top: 8px;
-    margin-bottom: 12px;
-    color: #b9bbbe;
+	content: "Do You Wish To See Members Of The Itty Bitty Titty Committee?";
+	display: block;
+	font-size: 16px;
+	line-height: 16px;
+	margin-top: 8px;
+	margin-bottom: 12px;
+	color: #b9bbbe;
 }
 
 .theme-dark .image-2XJctU  {
-    background-image: url(https://i.imgur.com/PBwzzZX.jpg);
+	background-image: url(https://i.imgur.com/PBwzzZX.jpg);
 }
 
 .actionRed-sT3Bw5, .actionRed-sT3Bw5:hover {
@@ -2644,7 +2644,7 @@ div.form-inner, .form-actions {
 }
 
 .theme-dark .item-3tXG-o {
-    box-shadow: inset 0 -1px 0 0 var(--M-Colour);
+	box-shadow: inset 0 -1px 0 0 var(--M-Colour);
 }
 
 #bd-settingspane-container .ui-switch-item .style-description{
@@ -2667,7 +2667,7 @@ div.form-inner, .form-actions {
 .theme-dark .messages-wrapper .messages .divider.divider-red > span,
 .markup,
 .member.member-status .member-activity {
-    text-shadow: 0 0 6px var(--Text-Shadow-Colour), 0 0 6px var(--Text-Shadow-Colour), 0 0 5px var(--Text-Shadow-Colour), 0 0 4px var(--Text-Shadow-Colour);
+	text-shadow: 0 0 6px var(--Text-Shadow-Colour), 0 0 6px var(--Text-Shadow-Colour), 0 0 5px var(--Text-Shadow-Colour), 0 0 4px var(--Text-Shadow-Colour);
 }
 
 .user-settings-security-image{
@@ -2697,7 +2697,7 @@ div.form-inner, .form-actions {
 	display:none;
 }
 .premium-settings .billing-history-list li.failed .billing-label, .premium-settings .billing-history-list li.reversed .billing-label{
-    background-color: RED;
+	background-color: RED;
 	margin-Right:-90px;
 }
 
@@ -2745,17 +2745,17 @@ div.form-inner, .form-actions {
 }
 
 .theme-dark .friends-table .messages .message-group-blocked .message-group-blocked-btn, .theme-dark .messages-wrapper .messages .message-group-blocked .message-group-blocked-btn {
-    background: transparent;
-    color: var(--Main-Colour);
+	background: transparent;
+	color: var(--Main-Colour);
 }
 
 .message-group-blocked {
-    border: 1px solid var(--Main-Colour)!important;
+	border: 1px solid var(--Main-Colour)!important;
 }
 
 .buttonBrandFilled-3Mv0Ra, button.btn.btn-primary, .ui-standard-sidebar-view .bda-slist .bda-right button, .themeClear-1NqU69.valueChecked-3Bzkbm, .themeClear-1NqU69.valueChecked-3Bzkbm, .themeClear-1NqU69.valueChecked-3Bzkbm {
-    color: var(--Main-Colour)!important;
-    background-color: transparent!important;
+	color: var(--Main-Colour)!important;
+	background-color: transparent!important;
 	border: 1px solid var(--Main-Colour)!important;
 }
 
@@ -2778,19 +2778,19 @@ div.form-inner, .form-actions {
 }
 
 .theme-dark .private-channel-call.minimum .private-channel-call-actions .center {
-    border: 1px Solid var(--Main-Colour);
-    background-color: Var(--Background-Colour);
+	border: 1px Solid var(--Main-Colour);
+	background-color: Var(--Background-Colour);
 }
 
 .buttonRedFilled-1NjJNj {
-    color: var(--Main-Colour);
-    background-color: Var(--Background-Colour);
+	color: var(--Main-Colour);
+	background-color: Var(--Background-Colour);
 	border: 1px Solid var(--Main-Colour);
 }
 
 .buttonRedFilled-1NjJNj:hover {
-    color: var(--Background-Colour);
-    background-color: Var(--Main-Colour);
+	color: var(--Background-Colour);
+	background-color: Var(--Main-Colour);
 	border: 1px Solid var(--Background-Colour);
 }
 
@@ -2868,36 +2868,36 @@ div.form-inner, .form-actions {
 /* Thanks To uri#0002 For This Code */
 
 #user-profile-modal .avatar-wrapper {
-    position: absolute;
-    top: 40px;
-    left: 40px;
-    background-color: transparent!important;
+	position: absolute;
+	top: 40px;
+	left: 40px;
+	background-color: transparent!important;
 }
 
 .avatar-profile {
-    border-radius: 5px!important;
+	border-radius: 5px!important;
 }
 
 .avatar-profile .status {
-    width: 30px;
-    height: 30px;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    border: 4px solid #fff;
-    bottom: 62px;
-    right: -40px;
+	width: 30px;
+	height: 30px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border: 4px solid #fff;
+	bottom: 62px;
+	right: -40px;
 }
 
 .typing{
 	text-shadow: 0 0 6px Black, 0 0 6px Black, 0 0 5px Black, 0 0 4px Black;
 	background: rgba(216,0,86,var(--Tpying-Rainbow)) !important;
-    animation: rainbow 3s infinite linear;
+	animation: rainbow 3s infinite linear;
 	border-radius: 5px !important;
 }
 
 .theme-dark .invite-button {
-    background-color: transparent;
-    border-color: var(--Main-Colour);
+	background-color: transparent;
+	border-color: var(--Main-Colour);
 }
 
 .channels-wrap [class^="scroller"] > [style^="width: 100%; height: 0"]{
@@ -2910,10 +2910,10 @@ div.form-inner, .form-actions {
 
 /* Support For Switch Fix */
 .ui-switch-checkbox:checked+.ui-switch {
-    background: var(--Main-Colour);
+	background: var(--Main-Colour);
 }
 .ui-switch-wrapper .ui-switch {
-    background: var(--Background-Colour);
+	background: var(--Background-Colour);
 }
 /* Support For Switch Fix */
 

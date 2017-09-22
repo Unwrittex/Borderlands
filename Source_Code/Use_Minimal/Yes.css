@@ -1,9 +1,9 @@
 .bd-minimal .guild .guild-inner a.avatar-small {
-    width: 20px!important;
-    height: 20px!important;
-    background-size: 100%;
-    font-size: 15px;
-    line-height: 20px;
+	width: 20px!important;
+	height: 20px!important;
+	background-size: 100%;
+	font-size: 15px;
+	line-height: 20px;
 }
 
 .bd-minimal .guilds-wrapper {
@@ -110,7 +110,7 @@
   display: none;
 }
 .bd-minimal .guilds-wrapper .guilds .friends-icon {
-    background-position: 30% 35%!important;
+	background-position: 30% 35%!important;
   width: 25px;
   height: 25px;
   background-image: url(https://rawgit.com/NFLD99/bc92e6e377868a28eded619818d02b00/raw/a4df7ac6b55c04fe84b1702e5eb9451ebab846b8/MSGs.svg);
@@ -119,11 +119,11 @@
   background-repeat: no-repeat;
 }
 .bd-minimal .avatar-small {
-    max-width: 20px;
-    max-height: 20px;
-    background-size: 100%;
-    margin-right: 2px;
-    margin-top: 0;
+	max-width: 20px;
+	max-height: 20px;
+	background-size: 100%;
+	margin-right: 2px;
+	margin-top: 0;
 }
 .new-messages-indicator.new-messages-indicator-mention{
 	display:none;
