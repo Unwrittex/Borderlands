@@ -2250,11 +2250,11 @@ div.flex-spacer.flex-vertical form {
 }
    /* "name":"SmarterEmbeds","description":"It basically makes the embeds align horizontally, so when there's multitple links in the same message, it takes less space in the chat.","author":"Beard_Design","version":"1.0.0" */
 
-.guilds-wrapper .guilds .guild,
+/*.guilds-wrapper .guilds .guild,
 .guilds-wrapper .guilds .guild .guild-inner a {
-  width: 40px;
+  width: auto;
   height: 40px;
-}
+}*/
 
 .theme-dark .themed-popout {
   background-color: var(--Background-Colour);
@@ -2803,15 +2803,6 @@ div.form-inner, .form-actions {
 .search-popout .option:hover{
 	background:var(--Main-Colour)!important;
 	color: var(--Background-Colour)!important;
-}
-
-.esc-text:after {
-  width: 50px;
-  height: 50px;
-  content: " Made By NFLD99";
-  background-size: 32px 28px;
-  background-position: 50%;
-  background-repeat: no-repeat;
 }
 
 /* Thanks To uri#0002 For This Code */
