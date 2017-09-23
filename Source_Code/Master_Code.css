@@ -1512,11 +1512,11 @@ spinner-pulsing-ellipsis .spinner-item {
   animation: Spin 2.8s infinite linear;
 }
 
-#app-mount > div > div.app.flex-vertical.theme-dark > div > section > div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical > div > div > div > div:nth-child(37) > div.comment > div.message.mentioned > div.body-3rkFrF > div > div.markup {
+/*#app-mount > div > div.app.flex-vertical.theme-dark > div > section > div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical > div > div > div > div:nth-child(37) > div.comment > div.message.mentioned > div.body-3rkFrF > div > div.markup {
   background: transparent !important;
   border-top-right-radius: 5px !important;
   border-top-left-radius: 5px !important;
-}
+}*/
 
 .bda-dark .server-info button {
   background-color: var(--Main-Colour) !important;
@@ -2535,14 +2535,14 @@ div.form-inner, .form-actions {
   color: var(--Main-Colour);
 }
 /*Alterado Badge*/
-.guilds-wrapper .guilds .guild .badge 
+/*.guilds-wrapper .guilds .guild .badge 
 {
   position: absolute;
   bottom: -42px;
   right: 33px;
   pointer-events: none;
 }
-
+*/
 .container-37-TX2:hover {
 	color: var(--Main-Colour);
 }
