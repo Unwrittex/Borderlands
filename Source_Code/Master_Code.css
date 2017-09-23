@@ -2267,14 +2267,14 @@ ul.bda-slist > li[data-reactid^=".3.$scroller.$pcolumn.1:$plugin-list.$"] > div:
   color: white !important;
 }
 
-.guilds-wrapper .guilds .friends-icon {
+/*.guilds-wrapper .guilds .friends-icon {
   width: 50px;
   height: 50px;
   background-image: url(https://rawgit.com/NFLD99/bc92e6e377868a28eded619818d02b00/raw/a4df7ac6b55c04fe84b1702e5eb9451ebab846b8/MSGs.svg);
   background-size: 32px 28px;
   background-position: 50%;
   background-repeat: no-repeat;
-}
+}*/
 
 .buttonDisconnect-3xZpYL {
   background-image: url(https://rawgit.com/NFLD99/8f34a7b2fa021c37a88a34e0506e5f8e/raw/b05fb27549370e73d0453cd33c12f5a60e9f276e/Exit.svg);
